@@ -49,3 +49,26 @@
 //         }
 //     }
 // }
+
+// static constructor
+// using System;
+// using System.Runtime.CompilerServices;
+
+// public class Program{
+//     public static int x=10;
+//     public int y=10;
+//     public Program(){
+//         y=y+10;
+//         Console.WriteLine("Program is loading");
+//     }
+//     static Program()
+//     {
+//         x=x+20;
+//         Console.WriteLine("Static Program is loading");
+//     }
+//     static void Main(string[] args){
+//         Console.WriteLine(x);
+//         Program  obj= new Program();
+//         Console.WriteLine(obj.y);
+//     }
+// }

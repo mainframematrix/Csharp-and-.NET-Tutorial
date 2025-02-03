@@ -9,7 +9,7 @@ obj/
 *.sln.docstates
 
 ## Ignore Visual Studio Code settings
-/.vs
+.vs/
 
 ## Ignore temporary files
 *.tmp
@@ -50,6 +50,3 @@ publish/
 coverage/
 *.coverage
 *.coveragexml
-
-## Ignore generated files
-Wiprotraining-C#/.vs/

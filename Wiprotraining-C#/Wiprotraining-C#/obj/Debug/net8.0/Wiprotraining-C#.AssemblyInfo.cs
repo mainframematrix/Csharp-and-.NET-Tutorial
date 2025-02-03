@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Wiprotraining-C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67c87a5ee4704ea5b8c95c3542494e72fe2e8c38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2367c5d3097eec8d3d3d1aeb706524974a01cce")]
 [assembly: System.Reflection.AssemblyProductAttribute("Wiprotraining-C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wiprotraining-C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

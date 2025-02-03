@@ -9,7 +9,7 @@ obj/
 *.sln.docstates
 
 ## Ignore Visual Studio Code settings
-.vs/
+/.vs
 
 ## Ignore temporary files
 *.tmp
@@ -53,3 +53,7 @@ coverage/
 
 ## Ignore generated files
 /Wiprotraining-C#/Properties
+/Wiprotraining-C#/bin/Debug/net8.0
+/Wiprotraining-C#/obj
+/Wiprotraining-C#//Wiprotraining-C#.csproj
+/Wiprotraining-C#//Wiprotraining-C#.csproj.user

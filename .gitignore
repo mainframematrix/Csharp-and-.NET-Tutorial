@@ -52,8 +52,4 @@ coverage/
 *.coveragexml
 
 ## Ignore generated files
-/Wiprotraining-C#\Properties/
-/Wiprotraining-C#\bin\Debug\net8.0/
-/Wiprotraining-C#\obj/
-/Wiprotraining-C#\Wiprotraining-C#.csproj/
-/Wiprotraining-C#\Wiprotraining-C#.csproj.user/
+Wiprotraining-C#/.vs

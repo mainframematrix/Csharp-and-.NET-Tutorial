@@ -9,7 +9,7 @@ obj/
 *.sln.docstates
 
 ## Ignore Visual Studio Code settings
-.vscode/
+.vs/
 
 ## Ignore temporary files
 *.tmp
@@ -34,7 +34,7 @@ artifacts/
 *.DotSettings.user
 
 ## Keep C# program files
-!*.cs
+!/C#/
 
 ## Ignore Test Results
 TestResults/
@@ -52,4 +52,4 @@ coverage/
 *.coveragexml
 
 ## Ignore generated files
-Generated_Code/
+/Wiprotraining-C#/Properties

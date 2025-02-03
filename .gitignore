@@ -52,4 +52,4 @@ coverage/
 *.coveragexml
 
 ## Ignore generated files
-Wiprotraining-C#/.vs
+Wiprotraining-C#/.vs/

@@ -27,8 +27,9 @@ artifacts/
 ## Ignore environment-specific files
 .env
 
-## Ignore Rider IDE files
+## Ignore IDE files
 .idea/
+.vscode/
 
 ## Ignore ReSharper files
 *.DotSettings.user
